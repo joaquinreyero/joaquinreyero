@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🚀 I’m currently leading Trippi to the space and beyond!
+
+
 <!--
 **joaquinreyero/joaquinreyero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

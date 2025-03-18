@@ -1,8 +1,7 @@
-### Hi there 👋
+# 👋 Hi, I'm Joaquin 
+### 💻 Entrepreneur | Full Stack Developer | AI/ML Enthusiast | Drummer  
 
-- 🚀 I’m currently leading Trippi to the space and beyond!
-
-
+🚀 Freelancer ALL-IN-ONE | Delivering end-to-end solutions that drive business value through technology. Passionate about impactful problem-solving, product thinking, and leveraging AI/ML for real-world applications.
 <!--
 **joaquinreyero/joaquinreyero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

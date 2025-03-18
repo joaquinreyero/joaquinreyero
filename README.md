@@ -6,7 +6,7 @@
 ### ⚡ Technology
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,ts,fastapi,react,vite,tailwind,linux,docker,gcp,githubactions,grafana,nginx,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,c,ts,fastapi,react,vite,tailwind,linux,docker,gcp,githubactions,grafana,nginx,postgres,mongodb" />
 </p>
 <!--
 **joaquinreyero/joaquinreyero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

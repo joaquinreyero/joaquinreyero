@@ -2,6 +2,12 @@
 ### 💻 Entrepreneur | Full Stack Developer | AI/ML Enthusiast | Drummer  
 
 🚀 Freelancer ALL-IN-ONE | Delivering end-to-end solutions that drive business value through technology. Passionate about impactful problem-solving, product thinking, and leveraging AI/ML for real-world applications.
+
+### ⚡ Technology
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,docker,fastapi,gcp,github,githubactions,grafana,html,linux,mongodb,mysql,nginx,postgres,py,react,sklearn,tailwind,ts,vite,js,ts,react,nextjs,django" />
+</p>
 <!--
 **joaquinreyero/joaquinreyero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
